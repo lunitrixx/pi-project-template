@@ -1,0 +1,7 @@
+{
+    "skills": [
+        "~/.claude/skills",
+        "~/.codex/skills"
+    ],
+    "enableSkillCommands": true
+}
